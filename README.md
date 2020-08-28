@@ -24,10 +24,10 @@ To play:
 
 
 The map.py is a script to create walls.txt and ennemies.txt to play on ( this is a map creator like script ):
-		To play on your maps: move current ennemies.txt and walls.txt to another folder.
-		Create your own ennemies.txt and walls.txt using map.py ( that will create: NameYouChoose_ennemies.txt and NameYouChoose_walls.txt )
-		Move these new 2 txt files to ennemies.txt and walls.txt on the same directory of game_base.py
-		Start game_base.py and your new map is on
+  -> To play on your maps: move current ennemies.txt and walls.txt to another folder.
+  -> Create your own ennemies.txt and walls.txt using map.py ( that will create: NameYouChoose_ennemies.txt and NameYouChoose_walls.txt )
+  -> Move these new 2 txt files to ennemies.txt and walls.txt on the same directory of game_base.py
+  -> Start game_base.py and your new map is on
 
 
 You can modify items.txt to create new items.
